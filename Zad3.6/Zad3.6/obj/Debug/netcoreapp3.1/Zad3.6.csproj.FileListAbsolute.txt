@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\bin\Debug\netcoreapp3.1\Zad3.6.exe
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\bin\Debug\netcoreapp3.1\Zad3.6.deps.json
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\bin\Debug\netcoreapp3.1\Zad3.6.runtimeconfig.json
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\bin\Debug\netcoreapp3.1\Zad3.6.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\bin\Debug\netcoreapp3.1\Zad3.6.dll
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\bin\Debug\netcoreapp3.1\Zad3.6.pdb
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\obj\Debug\netcoreapp3.1\Zad3.6.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\obj\Debug\netcoreapp3.1\Zad3.6.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\obj\Debug\netcoreapp3.1\Zad3.6.AssemblyInfo.cs
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\obj\Debug\netcoreapp3.1\Zad3.6.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\obj\Debug\netcoreapp3.1\Zad3.6.dll
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\obj\Debug\netcoreapp3.1\Zad3.6.pdb
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.6\Zad3.6\obj\Debug\netcoreapp3.1\Zad3.6.genruntimeconfig.cache
