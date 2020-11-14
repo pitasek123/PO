@@ -10,3 +10,4 @@ C:\Users\DELL\source\repos\pitasek123\PO\Zad3.5\Zad3.5\bin\Debug\netcoreapp3.1\Z
 C:\Users\DELL\source\repos\pitasek123\PO\Zad3.5\Zad3.5\obj\Debug\netcoreapp3.1\Zad3.5.dll
 C:\Users\DELL\source\repos\pitasek123\PO\Zad3.5\Zad3.5\obj\Debug\netcoreapp3.1\Zad3.5.pdb
 C:\Users\DELL\source\repos\pitasek123\PO\Zad3.5\Zad3.5\obj\Debug\netcoreapp3.1\Zad3.5.genruntimeconfig.cache
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.5\Zad3.5\obj\Debug\netcoreapp3.1\Zad3.5.csprojAssemblyReference.cache
