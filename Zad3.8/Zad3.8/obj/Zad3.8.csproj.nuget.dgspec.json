@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.7\\Zad3.7\\Zad3.7.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.8\\Zad3.8\\Zad3.8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.7\\Zad3.7\\Zad3.7.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.8\\Zad3.8\\Zad3.8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.7\\Zad3.7\\Zad3.7.csproj",
-        "projectName": "Zad3.7",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.7\\Zad3.7\\Zad3.7.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.8\\Zad3.8\\Zad3.8.csproj",
+        "projectName": "Zad3.8",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.8\\Zad3.8\\Zad3.8.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.7\\Zad3.7\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\pitasek123\\PO\\Zad3.8\\Zad3.8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

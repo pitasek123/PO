@@ -7,6 +7,8 @@ namespace Zad3._7
         static void Main(string[] args)
         {
             int dzien=0;
+            
+            Console.WriteLine("Podaj numer tygodnia!: ");
             dzien = int.Parse(Console.ReadLine());
 
             switch(dzien)
