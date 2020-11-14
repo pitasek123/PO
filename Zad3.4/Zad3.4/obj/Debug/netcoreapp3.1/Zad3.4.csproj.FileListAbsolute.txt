@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\obj\Debug\netcoreapp3.1\Zad3.4.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\obj\Debug\netcoreapp3.1\Zad3.4.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\obj\Debug\netcoreapp3.1\Zad3.4.AssemblyInfo.cs
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\obj\Debug\netcoreapp3.1\Zad3.4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\bin\Debug\netcoreapp3.1\Zad3.4.exe
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\bin\Debug\netcoreapp3.1\Zad3.4.deps.json
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\bin\Debug\netcoreapp3.1\Zad3.4.runtimeconfig.json
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\bin\Debug\netcoreapp3.1\Zad3.4.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\bin\Debug\netcoreapp3.1\Zad3.4.dll
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\bin\Debug\netcoreapp3.1\Zad3.4.pdb
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\obj\Debug\netcoreapp3.1\Zad3.4.dll
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\obj\Debug\netcoreapp3.1\Zad3.4.pdb
+C:\Users\DELL\source\repos\pitasek123\PO\Zad3.4\Zad3.4\obj\Debug\netcoreapp3.1\Zad3.4.genruntimeconfig.cache
